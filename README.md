@@ -67,4 +67,9 @@ For example, after an initial fill latency of three cycles, the processor comple
 **Conclusion**
 
 This project successfully demonstrates the fundamental concept of instruction pipelining in processor architecture. By dividing instruction execution into fetch, decode, execute, and write-back stages, and allowing instructions to flow through these stages in parallel, the processor achieves improved efficiency. While basic in its current form, the design can be expanded to include hazard detection, forwarding, branching, and a larger instruction set in future iterations.
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/6c764605-94c1-47c5-97a1-abbe07bef567)
+
+![Image](https://github.com/user-attachments/assets/9a6d8347-2497-46df-91a8-66d0767facad)
+![Image](https://github.com/user-attachments/assets/3fbf64f7-686b-49b0-9d01-00dd6106c963)
 
